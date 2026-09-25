@@ -38,7 +38,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="group flex cursor-pointer items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-lime-400 text-2xl transition group-hover:rotate-12">
-              🌳
+             🏛️
             </div>
 
             <div>
